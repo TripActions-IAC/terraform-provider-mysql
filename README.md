@@ -28,3 +28,4 @@ provider "mysql" {
   username = "root"
 }
 ```
+# triggering-prisma-scan
